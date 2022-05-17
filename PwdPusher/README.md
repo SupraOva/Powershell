@@ -1,4 +1,4 @@
-# PwdPusher
+# PwdPusher [![awesome](https://github.com/sindresorhus/awesome/blob/main/media/badge-flat.svg)](https://github.com/sindresorhus/awesome/blob/main/media/)
 Fork from [pwposh](https://github.com/pgarm/pwposh)
 
 Powershell Module for [Password Pusher](https://github.com/pglombardo/PasswordPusher) an opensource application to communicate passwords over the web.\
